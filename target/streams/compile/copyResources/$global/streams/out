@@ -1,0 +1,8 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\Users\Lashini\IIT notes\2nd year\OOP\CW\w1698510\Back-end(Java PlayFramework)\conf\application.conf,C:\Users\Lashini\IIT notes\2nd year\OOP\CW\w1698510\Back-end(Java PlayFramework)\target\scala-2.11\classes\application.conf)
+[debug] 	(C:\Users\Lashini\IIT notes\2nd year\OOP\CW\w1698510\Back-end(Java PlayFramework)\conf\evolutions,C:\Users\Lashini\IIT notes\2nd year\OOP\CW\w1698510\Back-end(Java PlayFramework)\target\scala-2.11\classes\evolutions)
+[debug] 	(C:\Users\Lashini\IIT notes\2nd year\OOP\CW\w1698510\Back-end(Java PlayFramework)\conf\logback.xml,C:\Users\Lashini\IIT notes\2nd year\OOP\CW\w1698510\Back-end(Java PlayFramework)\target\scala-2.11\classes\logback.xml)
+[debug] 	(C:\Users\Lashini\IIT notes\2nd year\OOP\CW\w1698510\Back-end(Java PlayFramework)\conf\messages,C:\Users\Lashini\IIT notes\2nd year\OOP\CW\w1698510\Back-end(Java PlayFramework)\target\scala-2.11\classes\messages)
+[debug] 	(C:\Users\Lashini\IIT notes\2nd year\OOP\CW\w1698510\Back-end(Java PlayFramework)\conf\routes,C:\Users\Lashini\IIT notes\2nd year\OOP\CW\w1698510\Back-end(Java PlayFramework)\target\scala-2.11\classes\routes)
+[debug] 	(C:\Users\Lashini\IIT notes\2nd year\OOP\CW\w1698510\Back-end(Java PlayFramework)\conf\evolutions\default,C:\Users\Lashini\IIT notes\2nd year\OOP\CW\w1698510\Back-end(Java PlayFramework)\target\scala-2.11\classes\evolutions\default)
+[debug] 	(C:\Users\Lashini\IIT notes\2nd year\OOP\CW\w1698510\Back-end(Java PlayFramework)\conf\evolutions\default\1.sql,C:\Users\Lashini\IIT notes\2nd year\OOP\CW\w1698510\Back-end(Java PlayFramework)\target\scala-2.11\classes\evolutions\default\1.sql)
